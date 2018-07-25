@@ -1,5 +1,5 @@
 # LearnGit
-Trying to implement git commands to learn how to use git
+Trying to implement git commands to learn how to use git -- lulz K.
 
 
 ##Edit
